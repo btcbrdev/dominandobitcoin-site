@@ -1,0 +1,11 @@
+# Dominando Bitcoin
+> Andreas M. Antonopoulos
+
+Mastering Bitcoin tells you everything you need to know about joining one of the most exciting revolutions since the invention of the web: digital money. Bitcoin is the first successful digital currency. It's instant, global, frictionless and it is changing money forever. Bitcoin is still in its infancy, and yet it has already spawned an economy valued at nearly $2 billion that is growing exponentially. Established companies like PayPal are considering adding bitcoin as a payment method, and investors are funding a flurry of new startups aiming to stake claims in a new industry that may rival the Internet in terms of scale and impact on daily life.
+
+If you're interested in learning more about the technical operation of bitcoin, or if you're building the next great bitcoin killer­app or business, you will find this book essential reading. From the basic use of a bitcoin wallet to buy a cup of coffee, to running a bitcoin marketplace with hundreds of thousands of transactions, or collaboratively building new financial innovations that will transform our understanding of currency and credit, this book will help you engineer money. You're about to unlock the API to a new economy. This book is your key.
+
+## About the Author
+Andreas is a passionate technologist, who is well-versed in many technical subjects. He is a serial tech-entrepreneur, having launched businesses in London, New York, and California. He has earned degrees in Computer Science and Data Communications and Distributed Systems from UCL. With experience ranging from hardware and electronics to high level business and financial systems technology consulting and years as CTO/CIO/CSO in many companies — he combines authority and deep knowledge with an ability to make complex subjects easy to understand.
+
+As a bitcoin entrepreneur, Andreas has founded three bitcoin businesses and launched several community open-source projects. He often writes articles and blog posts on bitcoin, is a permanent host on Let’s Talk Bitcoin and prolific public speaker at technology events. Andreas serves on the advisory boards of several bitcoin startups and serves as the Chief Security Officer of Blockchain.
