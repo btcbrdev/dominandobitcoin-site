@@ -1,6 +1,6 @@
 {
     "globals" : {
-        "site_name": "blinktrade-network",
+        "site_name": "Dominando Bitcoin",
         "site_css":  "./css",
         "root_dev": "http://localhost:3000/",
         "root_prod": ""
