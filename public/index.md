@@ -1,5 +1,5 @@
 # Dominando Bitcoin
-> Andreas M. Antonopoulos
+>  Andreas M. Antonopoulos
 
 Mastering Bitcoin tells you everything you need to know about joining one of the most exciting revolutions since the invention of the web: digital money. Bitcoin is the first successful digital currency. It's instant, global, frictionless and it is changing money forever. Bitcoin is still in its infancy, and yet it has already spawned an economy valued at nearly $2 billion that is growing exponentially. Established companies like PayPal are considering adding bitcoin as a payment method, and investors are funding a flurry of new startups aiming to stake claims in a new industry that may rival the Internet in terms of scale and impact on daily life.
 
