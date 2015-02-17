@@ -1,17 +1,17 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <title>Dominando Bitcoin</title>
-    <link media="all" rel="stylesheet" href="<%= root %>assets/css/style.css" type="text/css" />
-</head>
-<body>
     <% if(environment == "production") { %>
         <% root = root_prod %>
     <% } else { %>
         <% root = root_dev %>
     <% } %>
 
+    <meta charset="UTF-8">
+    <title>Dominando Bitcoin</title>
+    <link media="all" rel="stylesheet" href="<%= root %>assets/css/style.css" type="text/css" />
+</head>
+<body>
     <!-- .main -->
     <div class="main">
         <!-- .wrapper -->
