@@ -3,9 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <title>Dominando Bitcoin</title>
-    <link media="all" rel="stylesheet" href="assets/css/style.css" type="text/css" />
+    <link media="all" rel="stylesheet" href="<%= root %>assets/css/style.css" type="text/css" />
 </head>
 <body>
+    <% if(environment == "production") { %>
+        <% root = root_prod %>
+    <% } else { %>
+        <% root = root_dev %>
+    <% } %>
+
     <!-- .main -->
     <div class="main">
         <!-- .wrapper -->
@@ -15,55 +21,55 @@
             <h2>Sumário</h2>
             <ul>
                 <li>
-                    <a href="/prefacio">Prefácio</a>
+                    <a href="<%= root %>prefacio">Prefácio</a>
                 </li>
                 <li>
-                    <a href="/glossario">Glossário Rápido</a>
+                    <a href="<%= root %>glossario">Glossário Rápido</a>
                 </li>
                 <li>
-                    <a href="/capitulo01">1. Introdução</a>
+                    <a href="<%= root %>capitulo01">1. Introdução</a>
                 </li>
                 <li>
-                    <a href="/capitulo02">2. Como Bitcoin funciona</a>
+                    <a href="<%= root %>capitulo02">2. Como Bitcoin funciona</a>
                 </li>
                 <li>
-                    <a href="/capitulo03">3. O cliente Bitcoin</a>
+                    <a href="<%= root %>capitulo03">3. O cliente Bitcoin</a>
                 </li>
                 <li>
-                    <a href="/capitulo04">4. Chaves, Endereços e Carteiras</a>
+                    <a href="<%= root %>capitulo04">4. Chaves, Endereços e Carteiras</a>
                 </li>
                 <li>
-                    <a href="/capitulo05">5. Transações</a>
+                    <a href="<%= root %>capitulo05">5. Transações</a>
                 </li>
                 <li>
-                    <a href="/capitulo06">6. A rede Bitcoin</a>
+                    <a href="<%= root %>capitulo06">6. A rede Bitcoin</a>
                 </li>
                 <li>
-                    <a href="/capitulo07">7. O Blockchain</a>
+                    <a href="<%= root %>capitulo07">7. O Blockchain</a>
                 </li>
                 <li>
-                    <a href="/capitulo08">8. Mineração e Consenso</a>
+                    <a href="<%= root %>capitulo08">8. Mineração e Consenso</a>
                 </li>
                 <li>
-                    <a href="/capitulo09">9. Correntes alternativas, Moedas e Aplicações</a>
+                    <a href="<%= root %>capitulo09">9. Correntes alternativas, Moedas e Aplicações</a>
                 </li>
                 <li>
-                    <a href="/capitulo10">10. A Segurança do Bitcoin</a>
+                    <a href="<%= root %>capitulo10">10. A Segurança do Bitcoin</a>
                 </li>
                 <li>
-                    <a href="/apendiceA">A. Transaction Script Language Operators, Constants, and Symbols</a>
+                    <a href="<%= root %>apendiceA">A. Transaction Script Language Operators, Constants, and Symbols</a>
                 </li>
                 <li>
-                    <a href="/apendiceB">B. Bitcoin Improvement Proposals</a>
+                    <a href="<%= root %>apendiceB">B. Bitcoin Improvement Proposals</a>
                 </li>
                 <li>
-                    <a href="/apendiceC">C. pycoin, ku, and tx</a>
+                    <a href="<%= root %>apendiceC">C. pycoin, ku, and tx</a>
                 </li>
                 <li>
-                    <a href="/apendiceD">D. Available Commands with sx Tools</a>
+                    <a href="<%= root %>apendiceD">D. Available Commands with sx Tools</a>
                 </li>
                 <li>
-                    <a href="/indice">Índice</a>
+                    <a href="<%= root %>indice">Índice</a>
                 </li>
             </ul>
         </div>

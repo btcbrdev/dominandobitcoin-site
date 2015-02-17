@@ -3,6 +3,6 @@
         "site_name": "Dominando Bitcoin",
         "site_css":  "./css",
         "root_dev": "http://localhost:3000/",
-        "root_prod": ""
+        "root_prod": "http://btcbrdev.github.io/dominandobitcoin/"
     }
 }
