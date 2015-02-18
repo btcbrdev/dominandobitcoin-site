@@ -4,8 +4,8 @@ Tradução do Livro "Mastering Bitcoin"
 
 Referências:
 
-[Site do livro](http://chimera.labs.oreilly.com/books/1234000001802/)
-[Repositório](https://github.com/aantonop/bitcoinbook)
++ [Site do livro](http://chimera.labs.oreilly.com/books/1234000001802/)
++ [Repositório](https://github.com/aantonop/bitcoinbook)
 
 
 ## Install
