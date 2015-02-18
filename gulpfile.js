@@ -27,7 +27,7 @@ gulp.task('serve', function () {
       reload("style.css", {stream: true});
     });
 
-    gulp.watch("./**/*.{ejs,jade,haml,json}", reload)
+    gulp.watch("./**/*.{ejs,jade,haml,json,md}", reload)
   })
 });
 
