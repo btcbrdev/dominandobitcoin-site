@@ -1,4 +1,4 @@
-# Dominando Bitcoin
+# Dominando o Bitcoin
 
 Tradução do Livro "Mastering Bitcoin"
 
